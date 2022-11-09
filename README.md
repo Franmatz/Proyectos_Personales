@@ -1,3 +1,4 @@
 ## Proyectos_Personales ##
-Proyectos Personales en los que estuve trabajando
-  1. Caso practico para entrevista
+---
+En este repositorio se encontraran los Proyectos Personales en los que estuve trabajando
+  1. En la primer rama *Caso practico para entrevista*
